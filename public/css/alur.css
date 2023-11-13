@@ -1,0 +1,250 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500&display=swap");
+
+*, html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    position:absolute;
+    width: 100%;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    background-color: #053B50;
+}
+
+.logoPolibest{
+    position: absolute;
+    text-align: left;
+    width: 60px;
+    height: 60px;
+    left: 32px;
+    top: 5px;
+}
+
+.logoBD{
+    position: absolute;
+    text-align: right;
+    width: 70px;
+    height: 60px;
+    left: 1270px;
+    top: 6px;
+}
+
+.navBD{
+    position: absolute;
+    width: 271px;
+    height: 24px;
+    left: 108px;
+    top: 11px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+}
+
+.navPBS{
+    position: absolute;
+    width: 191px;
+    height: 18px;
+    left: 108px;
+    top: 42px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    color: white;
+}
+
+.navTGL{
+    position: absolute;
+    width: 150px;
+    height: 15px;
+    left: 1128px;
+    top: 28px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFCFC;
+}
+
+.nav-link-home {
+    position: absolute;
+    left: 800px;
+    top: 30px;
+    color: #FFFFFF;
+    font-size: 12px;
+}
+
+.nav-link-pkl {
+    position: absolute;
+    left: 885px;
+    top: 30px;
+    color: white;
+    font-size: 12px;
+}
+
+.nav-link-logout {
+    position: absolute;
+    left: 1000px;
+    top: 30px;
+    color: #FFFFFF;
+    font-size: 12px;
+}
+
+
+h1{
+    position: relative;
+    text-align: center;
+    top: 100px;
+}
+
+.gambaralur{
+    position: relative;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    height: 500px;
+    left: 10%;
+
+}
+
+
+.footer {
+    width: 100%;
+    height: 160px;
+    text-align: left;
+    padding: 30px 30px 30px 30px;
+    position: relative;
+
+    background-color: #053B50;
+}
+
+.MAP img{
+    width: 160px;
+    height: 105px;
+    left: 36px;
+    bottom: 100px;
+}
+
+.iconlokasi{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 215px;
+    bottom: 68%;
+}
+
+.iconwa{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 220px;
+    bottom: 38%;
+}
+
+.iconemail{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 220px;
+    bottom: 12%;
+}
+
+h2{
+    position: absolute;
+    left: 255px;
+    bottom: 75%;
+
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+h3{
+    position: absolute;
+    left: 255px;
+    bottom: 65%;
+
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+h4{
+    position: absolute;
+    left: 255px;
+    bottom: 38%;
+
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+h5{
+    position: absolute;
+    left: 255px;
+    bottom: 12%;
+
+    font-family: 'Inria Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+.footer2{
+    position: absolute;
+    bottom: -10%;
+    left: 0%;
+    right: 0%;
+    text-align: center;
+
+    background: #176B87;
+}
+
+.footer2 i {
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+.social-icons{
+    position: relative;
+    text-align: right;
+    bottom: 120px;
+}
+.social-icons li{
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+}
+.social-icons i{
+    color: white;
+    font-size: 25px;
+}
+
+
